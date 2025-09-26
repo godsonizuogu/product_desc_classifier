@@ -1,4 +1,4 @@
-# product_desc_classifier
+# Predictive Product Categorizer
 Brave Fundamentals first task
 
 In the rapidly growing field of e-commerce, accurate product categorization is essential for ensuring a seamless user experience. Properly categorized products improve search relevance, enhance product discovery, and boost customer satisfaction.
