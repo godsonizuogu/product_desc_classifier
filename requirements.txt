@@ -1,0 +1,14 @@
+scikit learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+tf-idf vectorizer
+num2words
+spacy
+spellchecker
+string, re
+PIL
+joblib
