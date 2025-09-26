@@ -106,7 +106,7 @@ Ridge Classifier offers strong baseline performance for multi-class text classif
 
 Future Improvements:
 
-Advanced NLP methods: Incorporating TF-IDF vectors, word embeddings (Word2Vec, GloVe, FastText), or transformer-based models (BERT) for richer text representation.
+Advanced NLP methods: Incorporating word embeddings (Word2Vec, GloVe, FastText), or transformer-based models (BERT) for richer text representation.
 
 Data augmentation: Expanding the dataset to handle underrepresented categories.
 
@@ -116,4 +116,4 @@ Deployment: Building an API or integrating the model into a real e-commerce plat
 
 ## Model Saving
 
-The final Ridge Classifier model was saved using joblib/pickle, ensuring reproducibility and easy deployment.
+The final Ridge Classifier model was saved using joblib, ensuring reproducibility and easy deployment.
